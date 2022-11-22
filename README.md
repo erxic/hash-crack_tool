@@ -2,12 +2,12 @@
 this tool can crack encrypt password with some algorithm
 
 
-##Require
+## Require
 
 -python3
 
 
-##Usage
+## Usage
 
 ```
 python3 hashcrack.py
