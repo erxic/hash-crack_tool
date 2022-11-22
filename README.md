@@ -8,6 +8,7 @@ this tool can crack encrypt password with some algorithm
 
 
 ##usage
+
 ```terminal
 python3 hashcrack.py
 ```
